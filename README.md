@@ -1,6 +1,6 @@
 # 🚀 AI vs Human Flight Simulation (KLAX Traffic Pattern)
 
-This is the code for the 2025 Rochester ISEF Human vs. AI Flight Simulation Submissio
+This is the code for the 2025 Rochester ISEF Human vs. AI Flight Simulation Submission
 
 ---
 
