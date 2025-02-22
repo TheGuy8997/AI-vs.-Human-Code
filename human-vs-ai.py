@@ -4,7 +4,7 @@ import numpy as np
 from stable_baselines3 import PPO
 from train_ai import KLAXTrafficPatternEnv
 
-MODEL_PATH = "/home/victor/Documents/ai_model_klax.zip"
+MODEL_PATH = "path_to_ai_model_klax.zip"
 FG_HOST = "127.0.0.1"
 TELNET_PORT = 9000
 
